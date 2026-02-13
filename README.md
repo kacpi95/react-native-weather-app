@@ -88,8 +88,8 @@ package.json
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/kacpi95/Weather-App-react-native.git
-cd weather-app
+git clone https://github.com/kacpi95/react-native-weather-app.git
+cd react-native-weather-app
 ```
 
 ### 2. Install dependencies:
